@@ -10,7 +10,8 @@ public class FirstProgram {
 		log.info("hii");
 		log.debug("hello");
 		log.error("error");
-		log.fatal("fatal error");
+		log.fatal("fatal critical error");
+		
 		
 	}
 
